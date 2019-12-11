@@ -1,0 +1,12 @@
+D:\PoCs\xml\deserializer\XMLSimpleDeserializer\XMLSimpleDeserializer\obj\Debug\netcoreapp2.2\XMLSimpleDeserializer.csprojAssemblyReference.cache
+D:\PoCs\xml\deserializer\XMLSimpleDeserializer\XMLSimpleDeserializer\obj\Debug\netcoreapp2.2\XMLSimpleDeserializer.csproj.CoreCompileInputs.cache
+D:\PoCs\xml\deserializer\XMLSimpleDeserializer\XMLSimpleDeserializer\obj\Debug\netcoreapp2.2\XMLSimpleDeserializer.AssemblyInfoInputs.cache
+D:\PoCs\xml\deserializer\XMLSimpleDeserializer\XMLSimpleDeserializer\obj\Debug\netcoreapp2.2\XMLSimpleDeserializer.AssemblyInfo.cs
+D:\PoCs\xml\deserializer\XMLSimpleDeserializer\XMLSimpleDeserializer\bin\Debug\netcoreapp2.2\Assets\Payload.xml
+D:\PoCs\xml\deserializer\XMLSimpleDeserializer\XMLSimpleDeserializer\bin\Debug\netcoreapp2.2\XMLSimpleDeserializer.deps.json
+D:\PoCs\xml\deserializer\XMLSimpleDeserializer\XMLSimpleDeserializer\bin\Debug\netcoreapp2.2\XMLSimpleDeserializer.runtimeconfig.json
+D:\PoCs\xml\deserializer\XMLSimpleDeserializer\XMLSimpleDeserializer\bin\Debug\netcoreapp2.2\XMLSimpleDeserializer.runtimeconfig.dev.json
+D:\PoCs\xml\deserializer\XMLSimpleDeserializer\XMLSimpleDeserializer\bin\Debug\netcoreapp2.2\XMLSimpleDeserializer.dll
+D:\PoCs\xml\deserializer\XMLSimpleDeserializer\XMLSimpleDeserializer\bin\Debug\netcoreapp2.2\XMLSimpleDeserializer.pdb
+D:\PoCs\xml\deserializer\XMLSimpleDeserializer\XMLSimpleDeserializer\obj\Debug\netcoreapp2.2\XMLSimpleDeserializer.dll
+D:\PoCs\xml\deserializer\XMLSimpleDeserializer\XMLSimpleDeserializer\obj\Debug\netcoreapp2.2\XMLSimpleDeserializer.pdb

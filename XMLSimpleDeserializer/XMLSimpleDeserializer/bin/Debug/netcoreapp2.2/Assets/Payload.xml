@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<MainContent>
+  <Content alias="First">
+    <Name>Default</Name>
+    <Required>true</Required>
+  </Content>
+  <Value>4648</Value>
+</MainContent>
